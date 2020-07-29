@@ -1,6 +1,8 @@
 # Speech Recognition using Google API:
 Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
 Rudimentary speech recognition software has a limited vocabulary of words and phrases, and it may only identify these if they are spoken very clearly.
+![Annotation 2020-07-29 164624](https://user-images.githubusercontent.com/68856803/88793863-2353b780-d1bb-11ea-974a-d16a51d7a2c3.png)
+
 
 
 
