@@ -1,11 +1,6 @@
 # Speech Recognition using Google API:
 Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
 Rudimentary speech recognition software has a limited vocabulary of words and phrases, and it may only identify these if they are spoken very clearly.
-![Annotation 2020-07-29 164624](https://user-images.githubusercontent.com/68856803/88793863-2353b780-d1bb-11ea-974a-d16a51d7a2c3.png)
-
-
-
-
 
 # Packages required:
 (a) speech_recognition
@@ -14,6 +9,8 @@ Rudimentary speech recognition software has a limited vocabulary of words and ph
 # Installing the required packages:
 (a) pip install SpeechRecognition
 (b) pip install PyAudio
+
+![Annotation 2020-07-29 164624](https://user-images.githubusercontent.com/68856803/88793863-2353b780-d1bb-11ea-974a-d16a51d7a2c3.png)
 
 # Description:
 Google APIs is a set of application programming interfaces developed by Google which allow communication with Google Services and their integration to other services. 
