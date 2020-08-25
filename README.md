@@ -21,6 +21,6 @@ This is a script to smoothly run the Google API to predict the speech from the a
 # Implementation of speech recognition using Microphone:
 After activating your microphone, run the program and speak anything; The speech will be recognized and converted into text.
 
-# Implementation of speech recognition using recorded auido:
+# Implementation of speech recognition using recorded audio:
 When you implement this program make sure that the recorded audio file is in "wav" format.
 
